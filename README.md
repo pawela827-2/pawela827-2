@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-## About me
 - 🌱 I'm currently studying [C++]([https://isocpp.org])
 - 🔭 I'm working on a project [CornExploit](https://pawela827-2.github.io/CornExploitWebsite/)
 - 💬 Ask me about **C++** and **Roblox Studio**
